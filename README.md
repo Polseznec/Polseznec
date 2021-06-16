@@ -6,7 +6,7 @@
 <br />
 <h3>     My flexing List :</h3>
 <ul>
-  <li>Front-End = React</li>
+  <li>Front-End = JavaScript => React</li>
   <li>Back-End = Express & Node.Js</li>
   <li>Digging = <a href="https://maxforlive.com/">Max-For-Live</a> & <a href="https://www.rust-lang.org/">Rust</a></li>
   <li>My Interest = Music, Sustainability & Cat</li>
