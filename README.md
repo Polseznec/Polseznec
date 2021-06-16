@@ -2,7 +2,7 @@
 <h1 style="text-align:center;"> Hey Peoples 😄 </h1>
 <hr>
 <p>I'm Pōl</p>
-<p>Web Dev JS | Audio Producer | Between Paris & Berlin</p>
+<p>Web Dev JS | Audio Producer | Paris & Berlin</p>
 
 <!--
 **Polseznec/Polseznec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
