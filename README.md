@@ -13,7 +13,7 @@
   <li>Feel free to contact me for cool projects 💛</li>
 </ul>
 <hr>
-<p align="center">My Wonderfull <a href="https://www.linkedin.com/in/pol-seznec-5aba94a0/">linkedin</a>!</p>
-<p align="center">My Wonderfull <a href="https://www.facebook.com/Klangangriff">Music Collective</a>!</p>
-<p align="center">My Wonderfull <a href="https://catsynth.netlify.app/png/PititChat.jpg">Cat</a>!</p>
+<p align="center">My Wonderfull <a href="https://www.linkedin.com/in/pol-seznec-5aba94a0/">linkedin</a> !</p>
+<p align="center">My Amazing <a href="https://www.facebook.com/Klangangriff">Music Collective</a> !</p>
+<p align="center">My Perfect <a href="https://catsynth.netlify.app/png/PititChat.jpg">Cat</a> !</p>
 
