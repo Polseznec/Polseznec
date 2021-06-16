@@ -1,20 +1,17 @@
 <hr>
-<h1 style="text-align:center;"> Hey Peoples 😄 </h1>
-<hr>
-<p>I'm Pōl</p>
-<p>Web Dev JS | Audio Producer | Paris & Berlin</p>
+<h1 align="center"> Hello Peoples 😄 </h1>
 
-<!--
-**Polseznec/Polseznec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I'm Pōl</p>
+<p align="center">Web Dev JS | Audio Producer | Paris & Berlin</p>
+<br />
+<h3>     My flexing List :</h3>
+<ul>
+  <li>Front-End = React</li>
+  <li>Back-End = Express & Node.Js</li>
+  <li>Digging = Max-For-Live & Rust</li>
+  <li>My Interest = Music, Sustainability & Cat</li>
+  <li>Feel free to contact me for cool projects 💛</li>
+</ul>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br />
+<p align="center">This is my Wonderfull <a href="https://www.linkedin.com/in/pol-seznec-5aba94a0/">linkedin</a></p>
