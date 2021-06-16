@@ -1,5 +1,5 @@
 <hr>
-<h1 style="text-align: center;"> Hey Peoples 😄 </h1>
+<h1 style="text-align:center;"> Hey Peoples 😄 </h1>
 <hr>
 
 <!--
