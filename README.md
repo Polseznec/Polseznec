@@ -1,5 +1,5 @@
 <hr>
-<h1 align="center"> Hello Peoples 😄 </h1>
+<h1 align="center">Hello People ☀️</h1>
 
 <p align="center">I'm Pōl</p>
 <p align="center">Web Dev JS | Audio Producer | Paris & Berlin</p>
