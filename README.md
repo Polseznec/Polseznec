@@ -8,7 +8,7 @@
 <ul>
   <li>Front-End = JavaScript -> React</li>
   <li>Back-End = Express & Node.Js</li>
-  <li>Digging = <a href="https://maxforlive.com/">Max-For-Live</a> & <a href="https://www.rust-lang.org/">Rust</a></li>
+  <li>Digging = <a href="https://maxforlive.com/">Max-For-Live</a>
   <li>My Interest = Music, Sustainability & Cat</li>
   <li>Feel free to contact me for cool projects 💛</li>
 </ul>
